@@ -19,7 +19,7 @@
         and is close to nature.
     </p>
 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Mbabane_city.jpg" 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Mbabane_-_City_overview.jpg/960px-Mbabane_-_City_overview.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20210515162752" 
          alt="View of Mbabane city" width="400">
 
 </body>
